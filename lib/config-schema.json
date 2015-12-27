@@ -1,9 +1,7 @@
 {
-    "config": {
-        "enableThing": {
-            "type": "boolean",
-            "default": false
-        }
+    "enableThing": {
+        "type": "boolean",
+        "default": false
     },
     "thingVolume": {
         "type": "integer",
