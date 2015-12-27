@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "scripts": {},
   "keywords": [],
-  "repository": "https://github.com/atom/sound",
+  "repository": "https://github.com/airtoxin/Atom-Sound",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
