@@ -1,10 +1,14 @@
 {
   "name": "sound",
   "main": "lib/sound",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Play sound on keypress etc...",
   "scripts": {},
-  "keywords": ["sound", "sfx", "keyboard"],
+  "keywords": [
+    "sound",
+    "sfx",
+    "keyboard"
+  ],
   "repository": "https://github.com/airtoxin/Atom-Sound",
   "license": "MIT",
   "engines": {
