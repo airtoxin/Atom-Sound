@@ -1,5 +1,24 @@
-# sound package
+# Sound package for Atom editor
 
-A short description of your package.
+Play sound on keypress etc...
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Install
+
+`apm install sound`
+
+## TODO
+
++ [x] sound playing
++ [ ] shortcuts
++ [ ] more events
++ [ ] custom sound sets
++ [ ] `install soundset` command
++ [ ] volume
++ [ ] sound throttling
+
+## Similar projects
+
++ [surdu/typewriter-sounds](https://github.com/surdu/typewriter-sounds)
++ [remanc/mechanical-keyboard](https://github.com/remanc/mechanical-keyboard)
++ [darklight721/keyboard-sounds](https://github.com/darklight721/keyboard-sounds)
++ [airtoxin/Sublime-Sound](https://github.com/airtoxin/Sublime-Sound)
