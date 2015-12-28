@@ -18,7 +18,7 @@ Directory structures are
 + [x] sound playing
 + [ ] shortcuts
 + [ ] more events
-+ [ ] custom sound sets
++ [x] custom sound sets
 + [ ] `install soundset` command
 + [ ] volume
 + [ ] sound throttling
