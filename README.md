@@ -6,6 +6,13 @@ Play sound on keypress etc...
 
 `apm install sound`
 
+## Custom sound set
+
+You can add custom sound by putting audio files in sound directory.
+Directory structures are
+
+[sound] > `Name of SoundSet` > `event name` > [default] > [audio files]
+
 ## TODO
 
 + [x] sound playing
