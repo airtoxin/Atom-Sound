@@ -44,7 +44,7 @@ more: [KeyboardEvent.keyCode - Web APIs | MDN](https://developer.mozilla.org/en-
 + [x] custom sound sets
 + [x] per key code sound
 + [ ] `install soundset` command
-+ [ ] volume
++ [x] volume
 + [ ] sound throttling
 
 ## Similar projects

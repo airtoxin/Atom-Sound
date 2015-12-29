@@ -11,6 +11,14 @@
         {
           'label': 'OpenSoundDirectory'
           'command': 'sound:open-sound-dir'
+        },
+        {
+          'label': 'VolumeUp'
+          'command': 'sound:volume-up'
+        },
+        {
+          'label': 'VolumeDown'
+          'command': 'sound:volume-down'
         }
       ]
     ]

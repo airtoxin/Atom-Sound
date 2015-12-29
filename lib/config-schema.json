@@ -3,5 +3,11 @@
         "type": "string",
         "default": "Click",
         "enum": ["Click"]
+    },
+    "volume": {
+        "type": "number",
+        "default": 1,
+        "minimum": 0,
+        "maximum": 1
     }
 }
