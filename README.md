@@ -1,6 +1,6 @@
 # Sound package for Atom editor
 
-Play sound on keypress etc...
+Play sound on any events...
 
 ## Install
 
@@ -117,3 +117,7 @@ This event definition was triggered when atom editor command executed.
 + [remanc/mechanical-keyboard](https://github.com/remanc/mechanical-keyboard)
 + [darklight721/keyboard-sounds](https://github.com/darklight721/keyboard-sounds)
 + [airtoxin/Sublime-Sound](https://github.com/airtoxin/Sublime-Sound)
+
+## License
+
+MIT
