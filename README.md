@@ -1,5 +1,10 @@
 # Sound package for Atom editor
 
+[![apm](https://img.shields.io/apm/l/sound.svg)]()
+[![apm](https://img.shields.io/apm/v/sound.svg)]()
+[![apm](https://img.shields.io/apm/v/sound.svg)]()
+[![Dependency Status](https://david-dm.org/airtoxin/Atom-Sound.svg)](https://david-dm.org/airtoxin/Atom-Sound)
+
 Play sound on any events...
 
 ## Install
