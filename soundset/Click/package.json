@@ -1,0 +1,27 @@
+{
+    "name": "Click",
+    "description": "Click Knock Tap...",
+    "definitions": [
+        {
+            "type": "keydown",
+            "event": "default",
+            "audios": [
+                "step_1.wav",
+                "step_2.wav",
+                "step_4.wav",
+                "step_5.wav",
+                "step_6.wav"
+            ]
+        },
+        {
+            "type": "keydown",
+            "event": "13",
+            "audios": ["step_3.wav"]
+        },
+        {
+            "type": "command",
+            "event": "cmd-s",
+            "audios": ["step_3.wav"]
+        }
+    ]
+}
