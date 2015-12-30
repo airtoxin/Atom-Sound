@@ -5,10 +5,6 @@
       'label': 'sound'
       'submenu': [
         {
-          'label': 'Toggle'
-          'command': 'sound:toggle'
-        },
-        {
           'label': 'OpenSoundDirectory'
           'command': 'sound:open-sound-dir'
         },
