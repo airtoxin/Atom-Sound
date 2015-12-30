@@ -5,23 +5,20 @@
         {
             "type": "keydown",
             "events": {
-                "13": ["step_3.wav"],
-                "default": [
-                    "step_1.wav",
-                    "step_2.wav",
-                    "step_4.wav",
-                    "step_5.wav",
-                    "step_6.wav"
-                ]
+                "13": ["step_3.wav"]
             }
         },
         {
             "type": "keystroke",
             "events": {
-                "cmd-s": ["pr_buzzer.wav"],
-                "ctrl-w": ["morph.wav"],
                 "ctrl-a": ["gender_rl.wav"],
                 "ctrl-e": ["gender_lr.wav"]
+            }
+        },
+        {
+            "type": "command",
+            "events": {
+                "core:save": ["pr_buzzer.wav"]
             }
         }
     ]
