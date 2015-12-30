@@ -5,7 +5,7 @@
       'label': 'sound'
       'submenu': [
         {
-          'label': 'OpenSoundDirectory'
+          'label': 'OpenSoundsetDirectory'
           'command': 'sound:open-sound-dir'
         },
         {
