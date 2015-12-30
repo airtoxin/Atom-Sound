@@ -16,13 +16,12 @@
             }
         },
         {
-            "type": "command",
+            "type": "keystroke",
             "events": {
-                "cmd-s": ["step_3.wav"],
-                "ctrl-w": [
-                    "pr_buzzer.wav",
-                    "morph.wav"
-                ]
+                "cmd-s": ["pr_buzzer.wav"],
+                "ctrl-w": ["morph.wav"],
+                "ctrl-a": ["gender_rl.wav"],
+                "ctrl-e": ["gender_lr.wav"]
             }
         }
     ]
