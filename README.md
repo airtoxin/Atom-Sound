@@ -114,7 +114,7 @@ This event definition was triggered when atom editor command executed.
 + [x] per key code sound
 + [ ] `install soundset` command
 + [x] volume
-+ [ ] sound throttling
++ [x] sound throttling
 
 ## Similar projects
 

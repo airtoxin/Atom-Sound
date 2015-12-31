@@ -1,3 +1,6 @@
+## 0.6.0 - Throttling
+* Feature: new option: `throttling`
+
 ## 0.5.0 - Add more event hooks
 * Feature: new event - `keystroke` and `command`
 * Changes: sound set directory structures
