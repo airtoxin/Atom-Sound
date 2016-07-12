@@ -1,0 +1,32 @@
+{
+    "name": "gun",
+    "description": "code in war",
+    "definitions": [
+        {
+            "type": "keydown",
+            "events": {
+                "13": ["bigGun.wav","reload1.wav","reload2.wav","reload3.wav"],
+                "default": [
+                    "shoot1.wav",
+                    "shoot2.wav",
+                    "shoot4.wav",
+                    "shoot5.wav",
+                    "shoot6.wav"
+                ]
+            }
+        },
+        {
+            "type": "keystroke",
+            "events": {
+                "ctrl-a": ["selectall.wav"],
+                "ctrl-e": ["selectall.wav"]
+            }
+        },
+        {
+            "type": "command",
+            "events": {
+                "core:save": ["shoot3.wav"]
+            }
+        }
+    ]
+}
